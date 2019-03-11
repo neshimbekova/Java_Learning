@@ -1,4 +1,5 @@
 // This little code is just to learn how to use variables
+// and concatenating strings in Java
 
 public class Pancake {
 	public static void main(String[] args) {
